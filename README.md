@@ -1,5 +1,5 @@
 # Covid 19 Tracker
-Self-explantory covid-19 tracking web app.
+A covid-19 tracking web app where user can see up-to-date status of infected patients, recovered patients and deceased patients. 
 
 ## Dependencies
 - axios
