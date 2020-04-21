@@ -1,6 +1,13 @@
 # Covid 19 Tracker
 Self-explantory covid-19 tracking web app.
 
+# Dependencies
+- axios
+- classnames
+- countup
+- chartjs-2
+- material-ui
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
