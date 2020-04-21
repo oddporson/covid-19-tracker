@@ -1,5 +1,5 @@
 # Covid 19 Tracker
-A covid-19 tracking web app where user can see up-to-date statistic of infected patients, recovered patients and deceased patients. 
+A covid-19 tracking web app where users can see up-to-date statistic of infected patients, recovered patients and deceased patients by global or country. 
 
 ## Dependencies
 - axios
