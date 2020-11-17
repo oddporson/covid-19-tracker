@@ -16,6 +16,7 @@ const Chart = ({ data: { confirmed, deaths, recovered }, country }) => {
 
   const lineChart = (
     dailyData
+    //dailyData.length gave error. why?
     ? ( 
       <Line 
       data={{
